@@ -25,7 +25,7 @@ SECRET_KEY = 'kk+72hq(zz7olm0rm9kdm_+r4rz+lbd1t1rod2!xwf0-&008+e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["anakha-heroku.herokuapp.com"]
 
 
 # Application definition
